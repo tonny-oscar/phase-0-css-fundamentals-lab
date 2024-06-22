@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+div {
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+nav{
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+figure{
+  text-align: center;
+}
+body{
+  text-align: center;
+}
